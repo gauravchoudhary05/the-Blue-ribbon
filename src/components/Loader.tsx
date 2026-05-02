@@ -153,7 +153,7 @@ export function Loader() {
                             transition={{ delay: 0.3, duration: 0.8 }}
                             className="font-[family-name:var(--font-display)] text-4xl md:text-5xl font-bold text-parchment tracking-tight select-none"
                         >
-                            Click <span className="italic font-normal text-gold">Cafe</span>
+                            The Blue <span className="italic font-normal text-gold">Ribbon</span>
                         </motion.h2>
                         
                         <div className="h-8 mt-6 flex items-center justify-center">
